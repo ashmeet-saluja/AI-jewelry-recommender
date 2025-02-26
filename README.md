@@ -16,15 +16,6 @@
 - **Machine Learning**: Facial landmark detection and classification  
 - **UI Framework**: Streamlit for interactive front-end  
 
-## 📦 Installation  
-### 🔹 Prerequisites  
-Ensure you have Python installed (3.7+ recommended).  
-
-### 🔹 Dependencies  
-Run the following command to install required libraries:  
-```bash
-pip install opencv-python dlib imutils numpy cmake
-```
 ### 🔹 Download Pre-trained Model  
 This project requires the `shape_predictor_68_face_landmarks.dat` file. Download it from [dlib’s official website](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) and extract it into the project directory.  
 
