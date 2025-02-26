@@ -1,6 +1,3 @@
-Here's your improved README with a license section and some ✨ emojis to make it more engaging!  
-
----
 
 # 💎 Jewellery AI  
 
